@@ -1,0 +1,54 @@
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\AutoService.exe.config
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\AutoService.exe
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\AutoService.pdb
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\MainWindow.g.cs
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\App.g.cs
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.cache
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.lref
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\App.baml
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\MainWindow.baml
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.g.resources
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.Properties.Resources.resources
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.csproj.GenerateResource.cache
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.csproj.CoreCompileInputs.cache
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.exe
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.pdb
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\EntityFramework.dll
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\EntityFramework.xml
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Создание приложения Р.Г\AutoService\AutoService\bin\Debug\ru\EntityFramework.resources.dll
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService_Content.g.cs
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.csproj.CopyComplete
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\windows\InputBoxWindow.g.cs
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\windows\InputBoxWindow.baml
+C:\Создание приложения Р.Г\AutoService\AutoService\obj\Debug\AutoService.csprojAssemblyReference.cache
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\AutoService.exe.config
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\AutoService.exe
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\AutoService.pdb
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\EntityFramework.dll
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\EntityFramework.xml
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\bin\Debug\ru\EntityFramework.resources.dll
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.csprojAssemblyReference.cache
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\MainWindow.g.cs
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\windows\InputBoxWindow.g.cs
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\App.g.cs
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService_Content.g.cs
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.cache
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.lref
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\App.baml
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\MainWindow.baml
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\windows\InputBoxWindow.baml
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.g.resources
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.Properties.Resources.resources
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.csproj.GenerateResource.cache
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.csproj.CoreCompileInputs.cache
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.csproj.CopyComplete
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.exe
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\AutoService.pdb
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\windows\ServiceWindow.g.cs
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\windows\ServiceWindow.baml
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\windows\ClientServiceWindow.g.cs
+C:\Git\AutoServiceRgalimulin\AutoService\AutoService\obj\Debug\windows\ClientServiceWindow.baml
